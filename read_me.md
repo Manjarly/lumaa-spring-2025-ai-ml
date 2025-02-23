@@ -1,8 +1,10 @@
 - Install the following libraries before running the code (if not running on Google Colab)
-pip install torch transformers scikit-learn pandas numpy
+- pip install torch transformers scikit-learn pandas numpy
 
-- How to run? 
-I have used Google Colab for faster results instead of depending on my local machine. You can use either Google Colab, or Jupyter Notebook. (Preferrably Google Colab). I have bifurcated the functions to each cell following proper coding standards and code readability.
+- Dataset downloaded from Kaggle (top10k-tmdb-movies.csv) and took the first 501 rows of data for current run
+
+- How to run?
+- I have used Google Colab for faster results instead of depending on my local machine. You can use either Google Colab, or Jupyter Notebook. (Preferrably Google Colab). I have bifurcated the functions to each cell following proper coding standards and code readability.
 
 - Originally the code took a little over 2 minutes to run with 500 rows of data using BERT(used for better accuracy). Trimmed the video to showcase the results.
 
